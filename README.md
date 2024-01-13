@@ -1,4 +1,4 @@
-### Olá! Me chamo Gianluca Paschoalotti
+### Olá! Me chamo Gianluca Paschoalotti!
 
 <br>
 Sou estudante de ciência da computação em que está se profissionalizando como desenvolvedor Front-End.
