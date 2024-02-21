@@ -3,7 +3,7 @@
 <br>
 Sou estudante de ciência da computação em que está se profissionalizando como desenvolvedor Front-End.
 
-- 🔭 Atualmente trabalho como Analista de Service Desk
+- 🔭 Atualmente trabalho como Assistente de desenvolvimento WEB.
 - 🌱 Estou estudando JavaScript e ReactJS
 
 <div>
