@@ -4,7 +4,7 @@
 Sou estudante de ciência da computação em que está se profissionalizando como desenvolvedor Front-End.
 
 - 🔭 Atualmente trabalho como Assistente de desenvolvimento WEB.
-- 🌱 Estou estudando ReactJS com Typescript
+- 🌱 Estou estudando ReactJS com Typescript, NodeJs e AngularJS
 
 <div>
   <a href="https://www.linkedin.com/in/gianluca-paschoalotti-777366209/" target="_blank">
