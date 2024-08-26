@@ -1,10 +1,10 @@
 ### Olá! Me chamo Gianluca Paschoalotti!
 
 <br>
-Sou estudante de ciência da computação em que está se profissionalizando como desenvolvedor Front-End.
+Sou estudante de ciência da computação e desenvolvedor fullstack.
 
-- 🔭 Atualmente trabalho como Assistente de desenvolvimento WEB.
-- 🌱 Estou estudando ReactJS com Typescript, NodeJs e AngularJS
+- 🔭 Atualmente trabalho como Desenvolvedor WEB Fullstack Junior I
+- 🌱 Estou atualmente estudando tecnologias como Next.js e AWS
 
 <div>
   <a href="https://www.linkedin.com/in/gianluca-paschoalotti-777366209/" target="_blank">
