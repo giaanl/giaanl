@@ -1,10 +1,9 @@
 ### Olá! Me chamo Gianluca Paschoalotti!
 
 <br>
-Sou estudante de ciência da computação e desenvolvedor fullstack.
+Sou bacharel em ciência da computação e dev fullstack
 
-- 🔭 Atualmente trabalho como Desenvolvedor WEB Fullstack Junior I
-- 🌱 Estou atualmente estudando tecnologias como Next.js e AWS
+- 🔭 Atualmente trabalho como Desenvolvedor Fullstack Pleno
 
 <div>
   <a href="https://www.linkedin.com/in/gianluca-paschoalotti-777366209/" target="_blank">
